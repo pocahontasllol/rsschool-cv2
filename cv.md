@@ -17,8 +17,7 @@
  I want to be a part of a commercial development team engaged in projects aimed at improving the interaction between business and consumer.
 
 ``` 
-var text = function (h) {
-}; 
+<script>console.log('Я — инлайновый скрипт');</script>
 ```
 
 
