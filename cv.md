@@ -20,8 +20,6 @@
 ``` 
 <script>console.log('Я — инлайновый скрипт');</script>
 ```
-
-
 #### Education
 
 * Yandex Praktikum(The Free part)
