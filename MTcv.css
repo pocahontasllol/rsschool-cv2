@@ -1,0 +1,64 @@
+html {
+    font-family: 'Urbanist', sans-serif;}
+.myPhoto img{
+    width: 60%;
+    border-radius: 50%;
+}
+.wrapper {
+    max-width: 1440px;
+    margin: 50px  auto;
+    display: flex;
+    border: 1px solid 
+}
+.wrapper_left {
+    margin-right: 50px;
+    background-color: deepskyblue;
+    padding: 15px;
+    min-width: 200px;
+}
+.wrapper-right{
+    margin-top: 50px;
+    padding: 50px;
+}
+.career {
+    margin-top: 50px;
+}
+footer {
+    width: 600px;
+    margin: 0 auto;
+    
+}
+footer a {
+    text-decoration: none;
+    color: black;
+}
+.logo {
+    height: 100px;
+
+}
+.Skills {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: center;
+    margin-right: 20px;
+}
+.gradient_1 {
+    
+    background-image: linear-gradient(to right,deepskyblue 60%,white 60%);
+    width: 150px;
+    height: 10px;
+    border: 1px solid black;
+}
+.gradient_2 {
+    background-image: linear-gradient(to right,deepskyblue 50%,white 50%);
+    width: 150px;
+    height: 10px;
+    border: 1px solid black;
+}
+.gradient_3 {
+    background-image: linear-gradient(to right,deepskyblue 40%,white 40%);
+    width: 150px;
+    height: 10px;
+    border: 1px solid black;
+}
